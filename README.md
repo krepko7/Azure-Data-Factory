@@ -17,7 +17,7 @@ Create a new Data Factory.  Go to portal.azure.com and click the Create Resource
 
 Type "Data Factory" in the search box and click the create button.
 
-<img style="float: right;" src="./graphics/datafactory.png">
+<img style="float: right;" src="./graphics/DataFactory.png">
 
 ## SQL Server Data Platform
 

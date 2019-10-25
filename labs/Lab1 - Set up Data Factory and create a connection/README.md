@@ -8,7 +8,7 @@ This site is a map of learning content produced by and curated by Kirby Repko. T
 
 Create a new Data Factory.  Go to portal.azure.com and click the Create Resource menu item from top left menu.
 
-<img style="float: right;" src="../graphics/createresource.png">
+<img style="float: right;" src="../../graphics/createresource.png">
 
 Type "Data Factory" in the search box and click the create button.
 

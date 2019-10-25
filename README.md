@@ -30,6 +30,9 @@ Here is a screen shot of the initial ADF splash page. Click the Author pencil on
 
 <img style="float: right;" src="./graphics/adfsplash.png">
 
+Click the Connections menu item at the bottom left and then click New.
+
+<img style="float: right;" src="./graphics/adfconnections.png">
 
 
 # Other labs you may be interested in.

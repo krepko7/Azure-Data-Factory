@@ -37,12 +37,6 @@ Type "Data Factory" in the search box and click the create button.
 - [Workshop: SQL Server 2019 Big Data Clusters - Architecture](https://github.com/Microsoft/sqlworkshops/tree/master/sqlserver2019bigdataclusters)
 - [Workshop: Machine Learning with SQL Server](https://github.com/Microsoft/sqlworkshops/tree/master/SQLServerMLServices)
 
-# Presentation Materials, Code, and References
-
-- [Presentation Materials - *(PowerPoint Decks, etc.)*](https://github.com/Microsoft/sqlworkshops/tree/master/References/README.MD#decks)
-- [Example Code](https://github.com/Microsoft/sqlworkshops/tree/master/References/README.MD#code)
-- [References and Tools from the Microsoft SQL Team](https://github.com/Microsoft/sqlworkshops/tree/master/References/README.MD#links)
-
 ## Learning how to self-learn
 
 Many of these topics are quite deep, and take time to fully absorb. There are several phases of learning:

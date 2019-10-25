@@ -39,7 +39,10 @@ Pick the Database category and then pick SQL Server.
 <img style="float: right;" src="./graphics/adflinkedservicesql.png">
 
 The name of your linked service is important since you will end up with many of these and will want to know what linked service points to what data source.
-You will later create data sets based on these linked services. Make sure to test the connection before you proceed.
+You will later create data sets based on these linked services. 
+Leave the Connect Via integration runtime (IR) drop down as "autoresolveintegrationruntime".  See more about IR's at https://docs.microsoft.com/en-us/azure/data-factory/create-azure-integration-runtime
+
+Make sure to test the connection before you proceed.
 
 <img style="float: right;" src="./graphics/adfsqllinkedservice.png">
 

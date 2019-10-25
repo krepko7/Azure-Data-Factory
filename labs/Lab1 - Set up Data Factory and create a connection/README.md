@@ -1,4 +1,4 @@
-<img style="float: right;" src="./graphics/solutions-microsoft-logo-small.png">
+<img style="float: right;" src="../../graphics/solutions-microsoft-logo-small.png">
 
 # Azure Data Factory Workshop
 

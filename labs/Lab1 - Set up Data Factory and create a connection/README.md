@@ -1,10 +1,7 @@
 <img style="float: right;" src="../../graphics/solutions-microsoft-logo-small.png">
 
-# Azure Data Factory Workshop
-
-This site is a map of learning content produced by and curated by Kirby Repko. These materials are meant to be instructor-led, but you can work through the materials on a test system on your own if desired. You can view all materials directly in this interface, or you can [view the raw github site for this content here](https://github.com/krepko7/Azure-Data-Factory). 
-
-## Azure Data Factory (ADF)
+## Azure Data Factory (ADF) 
+# Lab 1 - Set up Azure Data Factory and create a new linked service connection
 
 Create a new Data Factory.  Go to portal.azure.com and click the Create Resource menu item from top left menu.
 

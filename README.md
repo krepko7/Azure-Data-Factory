@@ -12,8 +12,12 @@ Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sq
 ## Azure Data Factory
 
 Create a new Data Factory.  Go to portal.azure.com and click the Create Resource menu item from top left menu.
+
 <img style="float: right;" src="./graphics/createresource.png">
 
+Type "Data Factory" in the search box and click the create button.
+
+<img style="float: right;" src="./graphics/datafactory.png">
 
 ## SQL Server Data Platform
 

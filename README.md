@@ -18,6 +18,9 @@ Fill in the fields similar to below.
 
 <img style="float: right;" src="./graphics/createadf.png">
 
+Remember when creating new resources in Azure to check the notifications bell icon at the top of the Azure Portal. It will tell you when reources are ready and allow you to quickly access them. 
+
+<img style="float: right;" src="./graphics/notificationbell.png">
 
 # Other labs you may be interested in.
 

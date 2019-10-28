@@ -30,8 +30,17 @@ Create a new Linked Service for your data lake.
 
 <img style="float: right;" src="../../graphics/datalakelinkedservice2.png">
 
+Click the ellipses next to Pipelines and create a new folder to keep things organized
+
+<img style="float: right;" src="../../graphics/pipelinefolder.png">
+
+Then click the ellipses next to Pipelines and pick the Copy Data option
+
+<img style="float: right;" src="../../graphics/adfcopydata.png">
 
 
+<img style="float: right;" src="../../graphics/.png">
+<img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 

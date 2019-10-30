@@ -74,7 +74,4 @@ You should see a screen similar to below.  If you don't see your job\pipeline ch
 <img style="float: right;" src="../../graphics/adfmonitor.png">
 
 
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">s
 

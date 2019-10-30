@@ -73,5 +73,9 @@ You should see a screen similar to below.  If you don't see your job\pipeline ch
 
 <img style="float: right;" src="../../graphics/adfmonitor.png">
 
+Optionally go to Azure Storage Explorer, sign into your Azure account and view the file(s) in your storage account.s
+
+<img style="float: right;" src="../../graphics/azurestorageexp.png">
+
 
 

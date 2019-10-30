@@ -69,8 +69,12 @@ Click next, review settings and make any changes you desire and then click next 
 <img style="float: right;" src="../../graphics/adfcopyrun.png">
 
 Now click the Monitor button to see your pipeline\job running.
+You should see a screen similar to below.  If you don't see your job\pipeline check your filters on the top right.
+
+<img style="float: right;" src="../../graphics/adfmonitor.png">
 
 
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
+<img style="float: right;" src="../../graphics/.png">s
 

@@ -5,11 +5,12 @@
 This site is a map of learning content produced by and curated by Kirby Repko. These materials are meant to be instructor-led, but you can work through the materials on a test system on your own if desired. You can view all materials directly in this interface, or you can [view the raw github site for this content here](https://github.com/krepko7/Azure-Data-Factory). 
 
 # Pre-requisites for the labs in the above folers
-	Azure Subscription with rights to use/deploy Azure services
-	Access to SQL Server on a VM in Azure
-	SQL Server Management Studio (https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
-	(optional) Microsoft Azure Storage Explorer (https://azure.microsoft.com/en-us/features/storage-explorer/)
-	Web browser (Edge/Chrome recommended)
+- [Azure Subscription with rights to use/deploy Azure services](https://portal.azure.com)
+- [Access to SQL Server on a VM in Azure]
+- [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
+- [(optional) Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-ver15)s
+- [(optional) Microsoft Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
+- [Web browser Edge or Chrome recommended]
 
 
 # Other labs you may be interested in.

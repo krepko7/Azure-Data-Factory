@@ -43,9 +43,3 @@ Make sure to test the connection before you proceed.
 
 <img style="float: right;" src="../../graphics/adfsqllinkedservice.png">
 
-# Appendix
-
-If in this lab or the next labs you need to delete a trigger go to this link.
-
-- [API to delete ADF trigger](https://docs.microsoft.com/en-us/rest/api/datafactory/triggers/delete)
-

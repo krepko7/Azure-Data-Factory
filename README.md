@@ -13,7 +13,7 @@ This site is a map of learning content produced by and curated by Kirby Repko. T
 - Web browser Edge or Chrome recommended
 
 
-# Other labs you may be interested in.
+# Other labs you may be interested in
 
 ## Azure Data Factory
 - [Provision Azure SSIS Integration Runtime](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-deploy-ssis-packages-azure)

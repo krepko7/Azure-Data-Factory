@@ -8,11 +8,17 @@ on a datetime column.  This first lab sets up table with a trigger to populate t
 
 Connect to your SQL Server VM and look at and run the code in the "Set Up Table.sql" file 
 
+In data factory click the plus sign just below Factory Resources and pick the Copy Data option.
+
+<img style="float: right;" src="../../graphics/copydatawizard1.png">
+
+
+
+
 
 
 - [Alternativley use the High Watermark delta method described here.](https://docs.microsoft.com/en-us/azure/data-factory/solution-template-delta-copy-with-control-table)
 
-<img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">

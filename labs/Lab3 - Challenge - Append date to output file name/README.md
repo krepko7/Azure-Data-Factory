@@ -27,9 +27,7 @@ Go ahead and Bing\Google it or look at Microsoft documentation https://docs.micr
 #
 #
 
-<img style="float: right;" src="../../graphics/clipy.png">
-
-# Hint 1
+<img style="float: right;" src="../../graphics/clipyhint1.png">
 
 Go to the Copy Data Activity in your pipeline and pick the Sink options.
 
@@ -52,9 +50,7 @@ Go to the Copy Data Activity in your pipeline and pick the Sink options.
 #
 #
 
-<img style="float: right;" src="../../graphics/clipy.png">
-
-# Hint 2
+<img style="float: right;" src="../../graphics/clipyhint1.png">
 
 Edit the dataset and add a filename parameter in the parameter section and give it a default file name.
 
@@ -77,9 +73,7 @@ Edit the dataset and add a filename parameter in the parameter section and give 
 #
 #
 
-<img style="float: right;" src="../../graphics/clipy.png">
-
-# Hint 3
+<img style="float: right;" src="../../graphics/clipyhint1.png">
 
 Go to the connection and add dynamic content to your file name.
 

@@ -27,7 +27,3 @@ Once the VM is ready go to it and pick the Networking menu item on left to confi
 <img style="float: right;" src="../../graphics/sqlvmscreen3.png.png">
 
 Restore the .bak file to the database.
-
-
-<img style="float: right;" src="../../graphics/.png">
-<img style="float: right;" src="../../graphics/.png">

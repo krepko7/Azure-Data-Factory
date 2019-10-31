@@ -8,6 +8,10 @@ on a datetime column.  This first lab sets up table with a trigger to populate t
 
 Connect to your SQL Server VM and look at and run the code in the "Set Up Table.sql" file 
 
+
+
+- [This lab will use the Delta copy steps described here.s] (https://docs.microsoft.com/en-us/azure/data-factory/solution-template-delta-copy-with-control-table)
+
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">
 <img style="float: right;" src="../../graphics/.png">

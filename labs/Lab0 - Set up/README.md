@@ -24,6 +24,6 @@ Under the SQL Server Settings tab pick something similar to below including enab
 
 Once the VM is ready go to it and pick the Networking menu item on left to confirm your RDP and SQL ports are open.
 
-<img style="float: right;" src="../../graphics/sqlvmscreen3.pngs">
+<img style="float: right;" src="../../graphics/sqlvmscreen3.png">
 
 Restore the .bak file to the database.

@@ -4,7 +4,7 @@
 # Lab 0 - Set up
 
 Restore the Retail database to a SQL Server on a VM in Azure.  
-Use the retail.bak file (aka adventure works) file in this directory.
+Use the .bak file in this directory.
 
 If you need to create a VM with SQL from scratch go to the Azure Portal, click the green plus to create a resource and
 pick an image like show below.

@@ -6,7 +6,7 @@
 Using what you have learned so far change your pipeline so that the outpuf file name contains the file name with
 a date or date time at the end of it.  Example: employee_20191120.csv
 
-Go ahead and Bing\Google it or look at Microsoft documentation https://docs.microsoft.com/en-us/.  If you want a hint scroll down.
+Go ahead and Bing\Google it or look at Microsoft documentation https://docs.microsoft.com/en-us/.  If you want hints scroll down.
 
 #
 #

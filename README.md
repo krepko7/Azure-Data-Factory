@@ -15,6 +15,16 @@ This site is a map of learning content produced by and curated by Kirby Repko. T
 
 # Other labs you may be interested in.
 
+## Azure Data Factory
+- [Provision Azure SSIS Integration Runtime](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-deploy-ssis-packages-azure)
+- [Load SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/data-factory/load-azure-sql-data-warehouse)
+- [Load Office 365 data](https://docs.microsoft.com/en-us/azure/data-factory/load-office-365-data)
+- [Add branching and chaining](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-control-flow-portal)
+- [Run a Databricks Notebook in ADF](https://docs.microsoft.com/en-us/azure/data-factory/transform-data-using-databricks-notebook)
+- [Copy on-premises data to the cloud](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-hybrid-copy-portal)
+- [Copy data from Azure storage to SQL](https://docs.microsoft.com/en-us/azure/data-factory/tutorial-copy-data-portal)
+
+
 ## SQL Server Data Platform
 
 - [Workshop: SQL Server Ground to Cloud](https://github.com/microsoft/sqlworkshops/tree/master/SQLGroundToCloud)

@@ -27,3 +27,8 @@ Once the VM is ready go to it and pick the Networking menu item on left to confi
 <img style="float: right;" src="../../graphics/sqlvmscreen3.png">
 
 Restore the .bak file to the database.
+
+# Here are some links for Azure Data Factory best practices 
+
+- [ADF Best Practices blog](https://blog.coeo.com/craigparsons/2017/04/21/azure-data-factory-best-practices-part-1)
+- [Security Considerations for data movement in data factory](https://docs.microsoft.com/en-us/azure/data-factory/data-movement-security-considerations)

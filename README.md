@@ -2,7 +2,7 @@
 
 # Azure Data Factory Workshop
 
-This site is a map of learning content produced by and curated by Kirby Repko. These materials are meant to be instructor-led, but you can work through the materials on a test system on your own if desired.  
+Please click the above labs directory to begin the labs.  See the pre-requisites below.  Thanks!
 
 # Official Documentation
 - [Microsoft Azure Data Factory Documentation site](https://docs.microsoft.com/en-us/azure/data-factory/)

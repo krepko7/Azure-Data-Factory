@@ -4,6 +4,9 @@
 
 This site is a map of learning content produced by and curated by Kirby Repko. These materials are meant to be instructor-led, but you can work through the materials on a test system on your own if desired. You can view all materials directly in this interface, or you can [view the raw github site for this content here](https://github.com/krepko7/Azure-Data-Factory). 
 
+# Official Documentation
+- [Microsoft Azure Data Factory Documentation site](https://docs.microsoft.com/en-us/azure/data-factory/)
+
 # Pre-requisites for the labs in the above folers
 - [Azure Subscription with rights to use/deploy Azure services](https://portal.azure.com)
 - Access to SQL Server on a VM in Azure

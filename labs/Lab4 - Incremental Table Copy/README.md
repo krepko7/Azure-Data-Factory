@@ -53,8 +53,7 @@ on a datetime column.  This first lab sets up table with a trigger to populate t
 <img style="float: right;" src="../../graphics/copydatawizard9.png">
 
 
-#### You may need to do one fix to the auto generated code.  Go to the Source of your copy activity and change the SQL to
-#### be "Database.TableName" instead of "Database/TableName".
+#### You may need to do one fix to the auto generated code.  Go to the Source of your copy activity and change the SQL to be "Database.TableName" instead of "Database/TableName".
 
 <img style="float: right;" src="../../graphics/copydatawizard11.png">
 
@@ -67,5 +66,5 @@ on a datetime column.  This first lab sets up table with a trigger to populate t
 #### You can now monitor your job. 
 
 
-- [Alternativley use the High Watermark delta method described here.](https://docs.microsoft.com/en-us/azure/data-factory/solution-template-delta-copy-with-control-table)
+# [Alternativley use the High Watermark delta method described here.](https://docs.microsoft.com/en-us/azure/data-factory/solution-template-delta-copy-with-control-table)
 

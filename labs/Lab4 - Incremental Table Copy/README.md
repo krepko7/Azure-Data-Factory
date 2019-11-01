@@ -6,9 +6,9 @@
 In this and the following labs we will set up a pipeline to incrementally copy data from a SQL table based
 on a datetime column.  This first lab sets up table with a trigger to populate the datetime column.
 
-Connect to your SQL Server VM and look at and run the code in the "Set Up Table.sql" file 
+### Connect to your SQL Server VM and look at and run the code in the "Set Up Table.sql" file 
 
-In data factory click the plus sign just below Factory Resources and pick the Copy Data option.
+### In data factory click the plus sign just below Factory Resources and pick the Copy Data option.
 
 <img style="float: right;" src="../../graphics/copydatawizard1.png">
 
@@ -46,8 +46,6 @@ Pick the folder and give it a file name.  We can change the file name to be dyna
 Click Next two more times and leave the settings at their defaults. 
 
 <img style="float: right;" src="../../graphics/copydatawizard8.png">
-
-
 
 
 You should now see a deployment screen like below.  Click the Finish button.  We will manually trigger the job next.

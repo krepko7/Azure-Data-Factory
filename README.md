@@ -49,7 +49,7 @@ Please click the above labs directory to begin the labs.  See the pre-requisites
 - [Workshop: SQL Server 2019 Big Data Clusters - Architecture](https://github.com/Microsoft/sqlworkshops/tree/master/sqlserver2019bigdataclusters)
 - [Workshop: Machine Learning with SQL Server](https://github.com/Microsoft/sqlworkshops/tree/master/SQLServerMLServices)
 
-## Learning how to self-learn
+## Learning how to self-learn (Thank you Buck Woody)
 
 Many of these topics are quite deep, and take time to fully absorb. There are several phases of learning:
 

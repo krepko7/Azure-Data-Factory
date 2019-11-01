@@ -48,6 +48,8 @@ Click Next two more times and leave the settings at their defaults.
 <img style="float: right;" src="../../graphics/copydatawizard8.png">
 
 
+
+
 You should now see a deployment screen like below.  Click the Finish button.  We will manually trigger the job next.
 
 <img style="float: right;" src="../../graphics/copydatawizard9.png">

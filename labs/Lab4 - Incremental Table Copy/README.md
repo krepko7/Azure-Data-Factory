@@ -66,5 +66,5 @@ on a datetime column.  This first lab sets up table with a trigger to populate t
 #### You can now monitor your job. 
 
 # Alternative method
-- [Alternativley use the High Watermark delta method described here.](https://docs.microsoft.com/en-us/azure/data-factory/solution-template-delta-copy-with-control-table)
+- [Use the High Watermark delta method described here.](https://docs.microsoft.com/en-us/azure/data-factory/solution-template-delta-copy-with-control-table)
 

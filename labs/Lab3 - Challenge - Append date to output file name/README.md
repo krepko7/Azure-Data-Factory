@@ -130,4 +130,13 @@ Here is part of the code needed:
 #
 #
 
+<img style="float: right;" src="../../graphics/clipyhint5.png">
+
+Here is the entire dynamic code to add to your file name:
+
+@concat(dataset().fileName, formatdatetime(utcnow(), 'yyyy'),
+formatdatetime(utcnow(), 'mm'),
+formatdatetime(utcnow(), 'dd'),
+'.csv'
+)
 

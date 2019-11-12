@@ -51,7 +51,7 @@ For your source pick the Database section filter at top and pick the SQL Server 
 <img style="float: right;" src="../../graphics/adfsqlsource.png">
 
 
-Pick your source table you want to copy and click Next.
+Pick your source table Person.Person and click Next.
 
 Now pick your data lake destination you created earlie.
 

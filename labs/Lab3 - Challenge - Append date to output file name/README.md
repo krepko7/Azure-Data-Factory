@@ -103,3 +103,31 @@ Go to the connection and add dynamic content to your file name.
 #
 #
 #
+
+<img style="float: right;" src="../../graphics/clipyhint4.png">
+
+Here is part of the code needed:
+@concat(dataset().fileName, formatdatetime(utcnow(), 'yyyy'),...
+
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+
+

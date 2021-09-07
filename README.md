@@ -3,8 +3,9 @@
 # Azure Data Factory Workshop
 
 This workshop will help you become familiar with Azure Data Factory. You will create pipelines to copy data from a SQL Server and load it into Azure Data Lake.
-Steps include creating SQL Server on a Virtual Machine in Azure. Restoring a database backup file to the SQL Server.  
-Copying data from SQL to a data lake and then doing an incremental copy from SQL Server to the data lake. 
+Steps include creating SQL Server on a Virtual Machine in Azure. Restoring a database backup file to the SQL Server. Copying data from SQL to a data lake and
+then doing an incremental copy from SQL Server to the data lake. 
+
 Please see the pre-requisites below.  
 
 # Pre-requisites for the labs in this course

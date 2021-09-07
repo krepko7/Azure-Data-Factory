@@ -32,24 +32,22 @@ Please see the pre-requisites below.
 
 ## SQL Server Data Platform
 
-- [Workshop: SQL Server Ground to Cloud](https://github.com/microsoft/sqlworkshops/tree/master/SQLGroundToCloud)
-- [Workshop: SQL Server 2019 on OpenShift](https://github.com/Microsoft/sqlworkshops/tree/master/SQLonOpenShift)
-- [Lab: SQL Server 2019](https://github.com/microsoft/sqlworkshops/tree/master/sql2019lab)
+- [Workshop: SQL Server Ground to Cloud](https://github.com/microsoft/sqlworkshops-sqlg2c)
+- [Workshop: SQL Server 2019 on OpenShift](https://github.com/microsoft/sqlworkshops-sqlonopenshift)
+- [Lab: SQL Server 2019](https://github.com/microsoft/sqlworkshops-sql2019lab)
 
 
 ## Azure SQL 
-- [Workshop: SQL Server Ground to Cloud](https://github.com/microsoft/sqlworkshops/tree/master/SQLGroundToCloud)
-- [Lab: Microsoft Azure SQL Labs](https://github.com/microsoft/sqlworkshops/tree/master/AzureSQLLabs)
+- [Lab: Microsoft Azure SQL Labs](https://github.com/microsoft/sqlworkshops-azuresqllabs)
 
 ## Programming
 
-- [Lab: Python for Data Professionals](https://github.com/Microsoft/sqlworkshops/tree/master/PythonForDataProfessionals)
-- [Workshop: R for Data Professionals](https://github.com/Microsoft/sqlworkshops/tree/master/RForDataProfessionals)
+- [Lab: Python for Data Professionals](https://github.com/microsoft/sqlworkshops-pythonfordatapros)
+- [Workshop: R for Data Professionals](https://github.com/microsoft/sqlworkshops-RForDataProfessionals)
 
 ## Machine Learning and AI
 
-- [Workshop: SQL Server 2019 Big Data Clusters - Architecture](https://github.com/Microsoft/sqlworkshops/tree/master/sqlserver2019bigdataclusters)
-- [Workshop: Machine Learning with SQL Server](https://github.com/Microsoft/sqlworkshops/tree/master/SQLServerMLServices)
+- [Workshop: SQL Server 2019 Big Data Clusters - Architecture](https://github.com/microsoft/sqlworkshops-bdc)
 
 ## Learning how to self-learn (Thank you Buck Woody)
 

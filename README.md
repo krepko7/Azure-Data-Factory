@@ -5,7 +5,7 @@
 This workshop will help you become familiar with Azure Data Factory. You will create pipelines to copy data from a SQL Server and load it into Azure Data Lake.
 Please see the pre-requisites below.  
 
-# Pre-requisites for the labs in the above folers
+# Pre-requisites for the labs in this course
 - [Azure Subscription with rights to use/deploy Azure services](https://portal.azure.com)
 - [Access to SQL Server on a VM in Azure](https://github.com/krepko7/Azure-Data-Factory/tree/master/labs/Lab0%20-%20Set%20up)
 - [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms)
@@ -13,7 +13,7 @@ Please see the pre-requisites below.
 - [(optional) Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download?view=sql-server-ver15)
 - Web browser Edge or Chrome recommended
 
-# Labs
+# Let's get started!
 - [Click here for the labs for this course](https://github.com/krepko7/Azure-Data-Factory/tree/master/labs)
 
 

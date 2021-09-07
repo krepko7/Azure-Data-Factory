@@ -1,7 +1,7 @@
 <img style="float: right;" src="../../graphics/solutions-microsoft-logo-small.png">
 
 ## Azure Data Factory (ADF) 
-# Lab 2 - Set up Data Lake Storage an ADF connection to it
+# Lab 2 - Set up Data Lake Storage and ADF connection to it
 
 Create a Storage Account for your Data Lake.  Go to portal.azure.com and click the Create Resource menu item from top left menu.
 

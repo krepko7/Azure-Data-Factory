@@ -5,8 +5,6 @@
 This workshop will help you become familiar with Azure Data Factory. You will create pipelines to copy data from a SQL Server and load it into Azure Data Lake.
 Please see the pre-requisites below.  
 
-## When you are ready to start the labs click the above labs directory to begin. Thanks!
-
 # Labs
 - [Click here for the labs for this course](https://github.com/krepko7/Azure-Data-Factory/tree/master/labs)
 

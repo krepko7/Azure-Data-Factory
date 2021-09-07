@@ -7,6 +7,9 @@ Please see the pre-requisites below.
 
 ## When you are ready to start the labs click the above labs directory to begin. Thanks!
 
+# Labs
+- [Click here for the labs for this course](https://github.com/krepko7/Azure-Data-Factory/tree/master/labs)
+
 # Pre-requisites for the labs in the above folers
 - [Azure Subscription with rights to use/deploy Azure services](https://portal.azure.com)
 - [Access to SQL Server on a VM in Azure](https://github.com/krepko7/Azure-Data-Factory/tree/master/labs/Lab0%20-%20Set%20up)
